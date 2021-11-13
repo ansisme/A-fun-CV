@@ -1,0 +1,38 @@
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-top-style: dotted;
+  border-color: grey;
+  width: 10%;
+}
+/*******************TAG SELECTORS*******************/
+
+img:hover {
+  background-color:gold;
+}
+
+/********************CLASS SELECTORS*******************/
+.profilepicture{
+  background-color: #afeeee;
+  height: 240px;
+
+}
+.hey{
+  background-color: red;
+  height: 240px;
+}
+.circular{
+  border-radius: 50%;
+}
+
+h1 {
+  color: #191970;
+}
+h3 { color: #191970;
+}
+h2 {
+  color: #191970;
+}
